@@ -1,0 +1,45 @@
+.index-main {
+    text-align: center;
+    background-image: url(../QLHoSo/img/background-city.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.index-title {
+    color: white;
+}
+
+.index-button {
+
+}
+
+.button-register {
+    background-color: cornflowerblue;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+}
+
+.button-register:hover {
+    background-color: deepskyblue;
+    cursor: pointer;
+    
+}
+
+.button-login {
+    background-color: orange;
+    color: black;
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+}
+
+.button-login:hover {
+    background-color: orangered;
+    cursor: pointer;
+}
